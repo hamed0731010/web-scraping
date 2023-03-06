@@ -1,1 +1,3 @@
 pip install scrapy
+scrapy startproject 'your project name'
+
